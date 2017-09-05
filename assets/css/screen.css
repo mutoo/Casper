@@ -610,8 +610,8 @@ The first (most recent) post in the list is styled to be bigger than the others 
     min-height: 230px;
     margin: 0 auto;
     padding: 70px 100px 0;
-    font-family: Georgia, serif;
-    font-size: 2.2rem;
+    font-family: Georgia, Arial, Helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    font-size: 1.6rem;
     line-height: 1.6em;
     background: #fff;
 }
@@ -623,7 +623,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
 }
 @media (max-width: 800px) {
     .post-full-content {
-        font-size: 1.9rem;
+        font-size: 1.4rem;
     }
 }
 
