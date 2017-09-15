@@ -770,7 +770,7 @@ Usage (In Ghost editor):
 
 
 .post-full-content iframe {
-    margin: 0 auto;
+    margin: 0 auto 1.5em;
 }
 
 .post-full-content blockquote {
